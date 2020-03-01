@@ -19,3 +19,5 @@ Built using [Rehabman's DSDTs](https://github.com/RehabMan/Intel-NUC-DSDT-Patch)
   - Not sure what's going on here but might have something to do with the DSDTs, so next step is to manually built them from [SSDTTime](https://github.com/corpnewt/SSDTTime)
   - Syncing iCloud, using USB WiFi, or encrypting the drive with FileVault seems to cause the crashes to become more frequent
   - Not a lot of useful data in the panics as they occur in the kernel
+- Hot plug DP
+  - Unplugging and replugging in the USB-C won't show any display
